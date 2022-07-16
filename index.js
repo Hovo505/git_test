@@ -1,6 +1,6 @@
-var  test = 5;
+var test = 5;
 let get_test = document.getElementById("test");
-function p() {
-    get_test.innerHTML="to anasun ashxatum"
+function h3() {
+    get_test.innerHTML = "to anasun ashxatum"
 }
 console.log("anasun");
